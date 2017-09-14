@@ -1,0 +1,4 @@
+Q: What happens when to initialize a repository? 
+
+A: It creates a .git file that tracks all the changes you make to the files containted. 
+

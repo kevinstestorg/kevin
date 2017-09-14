@@ -1,0 +1,16 @@
+Q: How did viewing a diff between two versions of a file help you see the bug that was introduced? 
+
+A: by looking at the difference you could easily compare and it shows exactly what changed which saves time and effort in fixing.
+
+Q: what do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google docs does?
+
+A. when it saves automatically, it may save when you are only have way through the change which can cause confusion and clutter the changes making them harder to find later. 
+
+Q: Why do you think some verion control systems, like Git, allow saving multiple files in one commit, while others, like Google docs, treat each file separately?
+
+A: When you are working on a large project with multiple files you might be changing all of them at once. Grouping these in one commit will help show all the changes made at once instead of going through multiple commits. 
+
+Q: Now that I have my workspace set up what do i want to use Git for?
+
+A: the purpose is to learn it, but it would be fun to build a site in rails
+
