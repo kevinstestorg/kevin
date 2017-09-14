@@ -2,3 +2,6 @@ Q: What happens when to initialize a repository?
 
 A: It creates a .git file that tracks all the changes you make to the files containted. 
 
+Q: How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+A: The staging area is where you can add files before commiting them while the working directory is already committed. It offers the chance to check before commiting?
