@@ -5,3 +5,12 @@ A: It creates a .git file that tracks all the changes you make to the files cont
 Q: How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 A: The staging area is where you can add files before commiting them while the working directory is already committed. It offers the chance to check before commiting?
+
+Q: How can you use the staging area to make sure you have one commit per logical change?
+
+A: You can add single changes to the staging area and look at the difference between that commit and the master. you can see if other changes would fit in the same commit. 
+
+Q: What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+A: You can use branches when you want to create a new test version and still keep a working version on the side. It would help by lettng you make changes while not messing up the original.
+
