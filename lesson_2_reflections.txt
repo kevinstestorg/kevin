@@ -14,3 +14,17 @@ Q: What are some situations when branches would be helpful in keeping your histo
 
 A: You can use branches when you want to create a new test version and still keep a working version on the side. It would help by lettng you make changes while not messing up the original.
 
+Q: How do the diagrams help you visualize the branch structure?
+
+A: The diagrams help to show that branches are new lines of commits that are not connected to the main branch. You can checout and old commit, create a new commit off that old commit and then create a new branch by using "git checkout -b new_branch_name"
+
+Q: What is the result of merging two branches togehter? Why do we represent the diagram the way that we do?
+
+A: The result was breaking it... haha not sure what I did to fuck up or how to reverse it, but overall it results in the changes being merged together. 
+
+Q: What are the pros and cons on Git's automatic mergin vs. always doing merges manually?
+
+A: Git can notice all of the changes and auto merge what is obvious, other wise you mneed to go through each one which takes time. 
+
+
+
