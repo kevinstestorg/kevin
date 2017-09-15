@@ -1,3 +1,7 @@
 Q: When would you want to use a remote repository rather than keeping all your work local
 
 A: Using a remote repository allows for collaboration with others. 
+
+Q: Why might you want to always pull changes rather than having Git automatically stay up-to-date with your remote repository.
+
+A: Because the online repository could overwrite changes you are working on.
